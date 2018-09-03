@@ -1,0 +1,1 @@
+Run the script and inpect element to see console.log.
